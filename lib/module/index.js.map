@@ -1,0 +1,1 @@
+{"version":3,"names":["NativeModules","KalapaEkyc"],"sources":["index.tsx"],"sourcesContent":["import { NativeModules } from 'react-native';\n\nconst { KalapaEkyc } = NativeModules;\n\nexport default KalapaEkyc;\n\n\n\n"],"mappings":"AAAA,SAASA,aAAa,QAAQ,cAAc;AAE5C,MAAM;EAAEC;AAAW,CAAC,GAAGD,aAAa;AAEpC,eAAeC,UAAU","ignoreList":[]}
